@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineEdu.Businnes", "Onlin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineEdu.DTO", "OnlineEdu.DTO\OnlineEdu.DTO.csproj", "{3F9D78A6-CAD5-4E15-A607-1AAB0000770A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineEdu.Presentation", "OnlineEdu.Presentation\OnlineEdu.Presentation.csproj", "{1CE44F20-25AD-4804-939E-523CCDAFB6DE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineEdu.WebUI", "OnlineEdu.Presentation\OnlineEdu.WebUI.csproj", "{1CE44F20-25AD-4804-939E-523CCDAFB6DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
