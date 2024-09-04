@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineEdu.DataAccess", "Onl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineEdu.Businnes", "OnlineEdu.Businnes\OnlineEdu.Businnes.csproj", "{48659D70-31E5-4A9F-AB2D-DCB3F3858D87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineEdu.DTO", "OnlineEdu.DTO\OnlineEdu.DTO.csproj", "{3F9D78A6-CAD5-4E15-A607-1AAB0000770A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{48659D70-31E5-4A9F-AB2D-DCB3F3858D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48659D70-31E5-4A9F-AB2D-DCB3F3858D87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48659D70-31E5-4A9F-AB2D-DCB3F3858D87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F9D78A6-CAD5-4E15-A607-1AAB0000770A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F9D78A6-CAD5-4E15-A607-1AAB0000770A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F9D78A6-CAD5-4E15-A607-1AAB0000770A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F9D78A6-CAD5-4E15-A607-1AAB0000770A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
