@@ -6,4 +6,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\OnlineEdu.Businnes\OnlineEdu.Businnes.csproj" />
+    <ProjectReference Include="..\OnlineEdu.DTO\OnlineEdu.DTO.csproj" />
+  </ItemGroup>
+
 </Project>
