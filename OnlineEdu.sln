@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineEdu.API", "OnlineEdu.API\OnlineEdu.API.csproj", "{C065D244-5BDC-4EE5-94C4-50FCB82F09B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineEdu.API", "OnlineEdu.API\OnlineEdu.API.csproj", "{C065D244-5BDC-4EE5-94C4-50FCB82F09B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineEdu.Entity", "OnlineEdu.Entity\OnlineEdu.Entity.csproj", "{E57A26C6-511E-4439-8144-B71A18E2ABF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineEdu.Entity", "OnlineEdu.Entity\OnlineEdu.Entity.csproj", "{E57A26C6-511E-4439-8144-B71A18E2ABF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineEdu.DataAccess", "OnlineEdu.DataAccess\OnlineEdu.DataAccess.csproj", "{2C319009-E620-4B6A-9516-E06DE8660F70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineEdu.DataAccess", "OnlineEdu.DataAccess\OnlineEdu.DataAccess.csproj", "{2C319009-E620-4B6A-9516-E06DE8660F70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineEdu.Businnes", "OnlineEdu.Businnes\OnlineEdu.Businnes.csproj", "{48659D70-31E5-4A9F-AB2D-DCB3F3858D87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineEdu.Businnes", "OnlineEdu.Businnes\OnlineEdu.Businnes.csproj", "{48659D70-31E5-4A9F-AB2D-DCB3F3858D87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineEdu.DTO", "OnlineEdu.DTO\OnlineEdu.DTO.csproj", "{3F9D78A6-CAD5-4E15-A607-1AAB0000770A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineEdu.DTO", "OnlineEdu.DTO\OnlineEdu.DTO.csproj", "{3F9D78A6-CAD5-4E15-A607-1AAB0000770A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineEdu.WebUI", "OnlineEdu.Presentation\OnlineEdu.WebUI.csproj", "{1CE44F20-25AD-4804-939E-523CCDAFB6DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineEdu.WebUI", "OnlineEdu.Presentation\OnlineEdu.WebUI.csproj", "{1CE44F20-25AD-4804-939E-523CCDAFB6DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
